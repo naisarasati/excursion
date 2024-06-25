@@ -1,0 +1,31 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+
+.section #main-title {
+    font-size: 50px;;
+}
+
+.button {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#second-section .point-title {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#second-section .subtitle {
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
